@@ -1,5 +1,4 @@
-#### Hi there 👋
-### My name is Javier Diaz
+### Hi there, my name is Javier Diaz 👋
 I'm a Software Engineer and Indie Developer from Mexico City, interested in design systems, jamstack, user/dev experience and under engineering. My goal is create fast, simple and accesible web experiences for everyone to use and enjoy!
 
 <!--
