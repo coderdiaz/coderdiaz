@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **A platform to connect developers and designers**.
-- 🌱 I’m currently learning **Go, Algorithms and UI Design**.
-- 💬 Ask me about **Node, Vue, React and GraphQL**.
-- 📫 How to reach me: [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
-- 😄 Pronouns: He/Him.
+- 🔭  I’m currently working on **A platform to connect developers and designers**.
+- 🌱  I’m currently learning **Go, Algorithms and UI Design**.
+- 💬  Ask me about **Node, Vue, React and GraphQL**.
+- 📫  How to reach me: [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
+- 😄  Pronouns: He/Him.
 
 I write sometimes. Mostly about my work and me at [https://coderdiaz.me](https://coderdiaz.me). I'm currently available for freelance and contract work, you can [Contact Me](mailto:hey@coderdiaz.me) for email or [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
 
