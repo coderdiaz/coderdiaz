@@ -1,7 +1,7 @@
 ### Hi there, my name is Javier Diaz 👋
 ![My Setup](./cover.png)
 
-I'm a Software Engineer and Indie Developer from Mexico City, interested in design systems, jamstack, user/dev experience and under engineering. My goal is create fast, simple and accesible web experiences for everyone to use and enjoy!
+I'm a Software Engineer, Indie Developer and aspiring UX/UI designer from Mexico City, interested in design systems, jamstack, user/dev experience and under engineering. My goal is create fast, simple and accesible web experiences for everyone to use and enjoy!
 
 <!--
 **coderdiaz/coderdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
