@@ -1,4 +1,4 @@
-### Hi there, my name is Javier Diaz 👋
+### Hi there, my name is Javier Diaz ☀️
 ![My Setup](./cover.png)
 
 I'm a Software Engineer, Indie Developer and aspiring UX/UI designer from Mexico City, interested in design systems, jamstack, user/dev experience and under engineering. My goal is create fast, simple and accesible web experiences for everyone to use and enjoy!
