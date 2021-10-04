@@ -29,8 +29,8 @@ I write sometimes. Mostly about my work and me at [https://coderdiaz.me](https:/
 ### These are the languages I have been working with
 <!--START_SECTION:waka-->
 ```text
-JavaScript   39 mins         ██████████░░░░░░░░░░░░░░░   39.71 % 
-TypeScript   35 mins         █████████░░░░░░░░░░░░░░░░   35.51 % 
-MDX          24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+JavaScript   37 mins         █████████▓░░░░░░░░░░░░░░░   38.82 % 
+TypeScript   35 mins         █████████░░░░░░░░░░░░░░░░   36.03 % 
+MDX          24 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 % 
 ```
 <!--END_SECTION:waka-->
