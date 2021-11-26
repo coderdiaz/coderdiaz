@@ -29,10 +29,10 @@ I write sometimes. Mostly about my work and me at [https://coderdiaz.me](https:/
 ### These are the languages I have been working with
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 41 mins  ████████████████░░░░░░░░░   64.33 % 
-MDX          4 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 % 
-JavaScript   58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript   13 hrs 5 mins   ███████████████░░░░░░░░░░   59.47 % 
+MDX          6 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.69 % 
+JavaScript   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
