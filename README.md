@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫  How to reach me: [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
 - 😄  Pronouns: He/Him.
 
-I write sometimes. Mostly about my work and me at [https://coderdiaz.me](https://coderdiaz.me). I'm currently available for freelance and contract work, you can [Contact Me](mailto:hey@coderdiaz.me) for email or [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
+I write sometimes. Mostly about my work and me at [https://coderdiaz.dev](https://coderdiaz.dev). I'm currently available for freelance and contract work, you can [Contact Me](mailto:hey@coderdiaz.me) for email or [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
 
 ### These are the languages I have been working with
 <!--START_SECTION:waka-->
