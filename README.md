@@ -30,8 +30,8 @@ I write sometimes. Mostly about my work and me at [https://coderdiaz.dev](https:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 12 mins  ██████████████████████▓░░   91.29 %
-Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript   11 hrs 10 mins  ██████████████████████▓░░   90.33 %
+Other        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
