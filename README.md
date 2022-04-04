@@ -30,9 +30,7 @@ I write sometimes. Mostly about my work and me at [https://coderdiaz.dev](https:
 <!--START_SECTION:waka-->
 
 ```text
-JSON         0 secs          ████████████████▒░░░░░░░░   65.01 %
-JavaScript   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-Git Config   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
