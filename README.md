@@ -12,7 +12,9 @@ I write sometimes. Mostly about my work and me at [https://coderdiaz.dev](https:
 
 ### These are the languages I have been working with
 <!--START_SECTION:waka-->
+
 ```text
 No activity tracked
 ```
+
 <!--END_SECTION:waka-->
