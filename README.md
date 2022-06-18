@@ -4,7 +4,7 @@ I'm **Javier Diaz**, a Product Engineer who designs interested in design systems
 
 - 🔭  I’m currently working on **a web-app to track personal goals and habits**.
 - 🌱  I’m currently learning about **creative development using Three.js, GSAP and Web Interactions**.
-- 💬  Ask me about **Web Development or specific tech stack, ec. Node, Vue, React and GraphQL**.
+- 💬  Ask me about **Web Development or specific tech stack, ex. Node, Vue, React and GraphQL**.
 - 📫  How to reach me: [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
 - 😄  Pronouns: He/Him.
 
