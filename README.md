@@ -8,4 +8,4 @@ I'm **Javier Diaz** a Product Engineer who designs interested in design systems,
 - 📫  How to reach me: [@coderdiaz](https://twitter.com/coderdiaz) on Twitter.
 - 😄  Pronouns: He/Him.
 
-I write sometimes mostly about my work, experiences and me at [https://coderdiaz.dev](https://coderdiaz.dev). You can [contact me](mailto:hey@coderdiaz.dev) via email or [@coderdiaz](https://twitter.com/coderdiaz) on Twitter if you want to talk to me.
+I write sometimes mostly about my work, experiences and me.
