@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 
-I'm **Javier Diaz** a Product Engineer who craft enjoyable user interfaces. Interested in design systems, jamstack, user/dev experience, software engineering and creative topics. My goal is create simple, user-friendly and faster digital products for everyone!
+I'm **Javier Diaz** a Self-taught Product Engineer who craft enjoyable user interfaces. Interested in design systems, jamstack, user/dev experience, software engineering and creative topics. My goal is create simple, user-friendly and faster digital products for everyone!
 
 - 🔭  I’m currently working on **an open-source service to create form endpoints** and **a platform to connect developers and designers**.
 - 🌱  I’m currently learning about **Product Design, Motion** and **Go**.
