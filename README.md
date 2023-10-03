@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 
-![Javier Diaz - Software Engineer & UI Designer](./cover.jpg)
+![Javier Diaz - Software Engineer & UI Designer](./CoverGitHub@2x.jpg)
 
 I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs snappy interfaces. Interested in design systems, jamstack, user/dev experience, software engineering, and design topics. My goal is to create simple, user-friendly, and faster digital products for everyone!
 
