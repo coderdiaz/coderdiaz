@@ -12,9 +12,9 @@ You can know more about me, visit my website [here](https://coderdiaz.dev/sobre-
 - If you have a project related to **design** or **development**, you can contact me via email.
 - 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X or send me an email to hey[at]coderdiaz.dev.
 - 😄 Pronouns: He/Him.
-- 📺 Join me on my Twitch channel, [Twitch](https://twitch.tv/coderdiaz), for exciting streams every Friday and Saturday! We delve into the world of programming and design, creating a vibrant community where you can continue to expand your knowledge of web development. Let's embark on this learning journey together!
+- 📺 Join me on [Twitch](https://twitch.tv/coderdiaz), for exciting streams every Friday and Saturday! We delve into the world of programming and design, creating a vibrant community where you can continue to expand your knowledge of web development. Let's embark on this learning journey together!
 
-I love writing, especially about my work and experiences, which I share on my blog. If you're interested in web development content, I'm currently writing articles on my new website called [Dimelo en Codigo](https://dimeloencodigo.com/hola-mundo).
+I love writing, especially about my work and experiences, which I share on my personal blog about thoughts. If you're interested in web development content, I'm currently writing articles on my new project called [Dimelo en Codigo](https://dimeloencodigo.com/hola-mundo).
 
 ### My product tech stack is:
 - **Backend:** Node.js, Nest.js, GraphQL, PostgreSQL, Strapi, PayloadCMS.
@@ -23,4 +23,4 @@ I love writing, especially about my work and experiences, which I share on my bl
 - **Infrastructure/Devops:** Northflank, Docker, CloudFlare.
 - **Programming Languages:** JavaScript, TypeScript, Golang.
 
-If you're curious about my tech stack and the tools I use on a daily basis, I'd be happy to share more information, you can visit my [uses page](https://coderdiaz.dev/que-uso).
+If you're curious about my tech stack and the tools I use on a daily basis, you can visit my [uses](https://coderdiaz.dev/que-uso) page.
