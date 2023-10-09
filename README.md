@@ -2,6 +2,24 @@
 
 ![Javier Diaz - Software Engineer & UI Designer](./CoverGitHub@2x.jpg)
 
+<p align="left">
+  <a href="https://twitch.tv/coderdiaz" rel="nofollow">
+    <img alt="Twitch" src="https://img.shields.io/twitch/status/coderdiaz?style=flat-square&label=follow me on twitch&logo=twitch" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/coderdiaz" rel="nofollow">
+    <img alt="Twitter" src="https://img.shields.io/badge/follow-coderdiaz-1DA1F2?logo=twitter&style=flat-square" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCIZS4F2zlOd1rnx6g7Jye1w" rel="nofollow">
+    <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCIZS4F2zlOd1rnx6g7Jye1w?style=flat-square&logo=youtube" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/dimeloencodigo" rel="nofollow">
+    <img alt="Twitter" src="https://img.shields.io/badge/follow-dimeloencodigo-1DA1F2?logo=twitter&style=flat-square" />
+  </a>
+</p>
+
 I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs snappy interfaces. Interested in design systems, jamstack, user/dev experience, software engineering, and design topics. My goal is to create simple, user-friendly, and faster digital products for everyone!
 
 You can know more about me, visit my website [here](https://coderdiaz.dev/sobre-mi).
