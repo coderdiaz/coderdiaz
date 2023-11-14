@@ -28,7 +28,7 @@ You can know more about me, visit my website [here](https://coderdiaz.dev/sobre-
 - 🌱 I’m currently learning about **Product Design, Motion** and **Golang**.
 - 💬 You can ask me about **web development** or specific tech stack, for ex. Node, Nest.js, React, Strapi, and GraphQL.
 - If you have a project related to **design** or **development**, you can contact me via email.
-- 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X or send me an email to hey[at]coderdiaz.dev.
+- 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X.com or send me an email to hey[at]coderdiaz.dev.
 - 😄 Pronouns: He/Him.
 - 📺 Join me on [Twitch](https://twitch.tv/coderdiaz) for exciting streams every Friday and Saturday! We delve into the world of programming and design, creating a vibrant community where you can continue to expand your knowledge of web development. Let's embark on this learning journey together!
 
