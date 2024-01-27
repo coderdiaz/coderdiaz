@@ -3,7 +3,7 @@
 ![Javier Diaz - Software Engineer & UI Designer](./CoverGitHub@2x.jpg)
 
 <p align="left">
-  <a href="https://twitch.tv/coderdiaz" rel="nofollow">
+  <a href="https://coderdiaz.com/live" rel="nofollow">
     <img alt="Twitch" src="https://img.shields.io/twitch/status/coderdiaz?style=flat-square&label=follow me on twitch&logo=twitch" />
   </a>
   &nbsp;
@@ -22,7 +22,7 @@
 
 I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs snappy interfaces. Interested in design systems, jamstack, user/dev experience, software engineering, and design topics. My goal is to create simple, user-friendly, and faster digital products for everyone!
 
-You can know more about me, by visiting my website [here](https://coderdiaz.dev/sobre-mi).
+You can know more about me, by visiting my website [here](https://coderdiaz.com/sobre-mi).
 
 - 🔭 I’m currently building a **open-source and self-hosted** alternative to retrieve form submissions and surveys.
 - 🌱 I’m currently learning about **Product Design, Motion** and **Golang**.
@@ -30,7 +30,7 @@ You can know more about me, by visiting my website [here](https://coderdiaz.dev/
 - If you have a project related to **design** or **development**, you can contact me via email.
 - 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X.com or send me an email to hola[at]coderdiaz.com.
 - 😄 Pronouns: He/Him.
-- 📺 Join me on [Twitch](https://twitch.tv/coderdiaz) for exciting streams every Friday and Saturday! We delve into the world of programming and design, creating a vibrant community where you can continue to expand your knowledge of web development. Let's embark on this learning journey together!
+- 📺 Join me on [Twitch](https://coderdiaz.com/live) for exciting streams every Friday and Saturday! We delve into the world of programming and design, creating a vibrant community where you can continue to expand your knowledge of web development. Let's embark on this learning journey together!
 
 I love writing, especially about my work and experiences, which I share on my personal blog about thoughts. If you're interested in web development content, I'm currently writing articles on my new project called [Dimelo en Codigo](https://dimeloencodigo.com/hola-mundo).
 
@@ -41,4 +41,4 @@ I love writing, especially about my work and experiences, which I share on my pe
 - **Infrastructure/Devops:** Northflank, Docker, CloudFlare.
 - **Programming Languages:** JavaScript, TypeScript, Golang.
 
-If you're curious about my tech stack and the tools I use on a daily basis, you can visit my [uses](https://coderdiaz.dev/que-uso) page.
+If you're curious about my tech stack and the tools I use daily, you can visit my [uses](https://coderdiaz.com/que-uso) page.
