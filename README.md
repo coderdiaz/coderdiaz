@@ -20,7 +20,7 @@ I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs stunning
 - 🌱 Learning about **Product Design, Motion** and **Golang**.
 - 💬 Feel free to ask me about **web development** or specific tech stacks like Node, Nest.js, React, Strapi, and GraphQL.
 - 🚀 Have a project related to design or development? Reach out via email.
-- 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X.com or send me an email to hola[at]coderdiaz.com.
+- 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X.com or send me an email to key[at]coderdiaz.com.
 - 😄 Pronouns: He/Him.
 - 📺 Join me on [Twitch](https://coderdiaz.com/live) for exciting streams somedays! We delve into the fascinating world of programming and design, creating a vibrant community. Let's learn together!
 
