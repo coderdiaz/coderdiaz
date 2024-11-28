@@ -16,7 +16,7 @@
 
 I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs stunning interfaces and loves to create digital products. I'm passionate about design systems, Jamstack, user/dev experience, software engineering, and all things design. My goal is to make digital products that are straightforward, intuitive, and lightning-fast for everyone
 
-- 🔭 Currently building an **open-source and self-hosted** alternative to retrieve form submissions and surveys.
+- 🔭 Currently building an **subscriptions and bills tracker** called Hoppy with React Native for iOS and Android.
 - 🌱 Learning about **Product Design, Motion** and **Golang**.
 - 💬 Feel free to ask me about **web development** or specific tech stacks like Node, Nest.js, React, Strapi, and GraphQL.
 - 🚀 Have a project related to design or development? Reach out via email.
@@ -24,7 +24,7 @@ I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs stunning
 - 😄 Pronouns: He/Him.
 - 📺 Join me on [Twitch](https://coderdiaz.com/live) for exciting streams somedays! We delve into the fascinating world of programming and design, creating a vibrant community. Let's learn together!
 
-I love writing, especially about my work and experiences, which I share on my personal blog about thoughts. Learn more about me on my website: [coderdiaz.com](https://coderdiaz.com/).
+I'm not a writer, but sometimes I write about my thoughts, experiencies and things that I learn, if you are interested you can know more about here: https://coderdiaz.com/notas/.
 
 ### My product tech stack includes:
 - **Backend:** Node.js, Nest.js, GraphQL, PostgreSQL, Strapi, PayloadCMS.
@@ -33,4 +33,4 @@ I love writing, especially about my work and experiences, which I share on my pe
 - **Infrastructure/Devops:** Northflank, Docker, CloudFlare.
 - **Programming Languages:** JavaScript, TypeScript, Golang.
 
-Happy Coding :shipit:
+Happy Coding and ship! :shipit:
