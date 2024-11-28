@@ -26,6 +26,15 @@ I'm **Javier Diaz** a.k.a. *coderdiaz*, a software engineer who designs stunning
 
 I'm not a writer, but sometimes I write about my thoughts, experiencies and things that I learn, if you are interested you can know more about here: https://coderdiaz.com/notas/.
 
+### Teaching
+Although I have a YouTube channel, it is not that up to date. However, I have two courses that can be very helpful to you.
+
+- Learn Strapi Fundamentals.
+- Learn Databases with PostgreSQL.
+
+You can check it out here:
+https://www.youtube.com/@coderdiaz
+
 ### My product tech stack includes:
 - **Backend:** Node.js, Nest.js, GraphQL, PostgreSQL, Strapi, PayloadCMS.
 - **Frontend:** HTML/CSS/JavaScript, React, Radix UI, TailwindCSS, Next.js, Astro, SWR for data fetching, MDX, Figma.
