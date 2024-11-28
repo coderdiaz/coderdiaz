@@ -2,7 +2,7 @@
 
 <p align="left">
   <a style="text-decoration: none;" href="https://coderdiaz.com/live" rel="nofollow">
-    <img alt="Twitch" src="https://img.shields.io/twitch/status/coderdiaz?style=flat-square&label=follow me on twitch&logo=twitch" />
+    <img alt="Twitch" src="https://img.shields.io/twitch/status/coderdiaz?style=flat-square&label=Live on twitch&logo=twitch" />
   </a>
   &nbsp;
   <a href="https://x.com/coderdiaz" rel="nofollow">
