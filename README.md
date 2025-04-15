@@ -20,8 +20,7 @@ I specialize in building lightning-fast, accessible products that solve real use
 
 - Design Systems & Component Architecture
 - User Experience & Interface Design
-- Modern Frontend Development
-- Backend Solutions
+- Modern Frontend & Backend solutions
 
 Currently helping teams deliver intuitive digital products that scale. Let's build something remarkable together.
 
