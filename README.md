@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm **Javier Diaz** (coderdiaz) — a Software Engineer and Product Designer crafting high-performance digital experiences. With deep expertise in design systems and Jamstack architecture, I bridge the gap between elegant design and robust engineering.
+I'm **Javier Diaz** (coderdiaz) — a Software Engineer with experience in product design crafting high-performance digital experiences. With deep expertise in design systems and Jamstack architecture, I bridge the gap between elegant design and robust engineering.
 
 I specialize in building lightning-fast, accessible products that solve real user problems. My work combines technical excellence with human-centered design principles, focusing on:
 
