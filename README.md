@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm **Javier Diaz** (coderdiaz) — a Software Engineer with experience in product design crafting high-performance digital experiences. With deep expertise in design systems and Jamstack architecture, I bridge the gap between elegant design and robust engineering.
+I'm **Javier Diaz** (coderdiaz) — a Software Engineer with experience in product design crafting high-performance digital experiences. With deep expertise in design systems and frontend/backend architecture, I bridge the gap between elegant design and robust engineering.
 
 I specialize in building lightning-fast, accessible products that solve real user problems. My work combines technical excellence with human-centered design principles, focusing on:
 
@@ -20,17 +20,14 @@ I specialize in building lightning-fast, accessible products that solve real use
 
 Currently helping teams deliver intuitive digital products that scale. Let's build something remarkable together.
 
-- 🔭 Currently, I'm crafting a **software for dance studios** called Kobi and will be available soon for iOS and Android.
 - 🌱 Learning about **Product Design, Animations** and **Golang**.
 - 💬 Feel free to ask me about **web development** or specific tech stacks like Node, Nest.js, React, Strapi, and GraphQL.
 - 🚀 Have a project related to design or development? Reach out via email.
 - 📫 How to reach me: [@coderdiaz](https://x.com/coderdiaz) on X.com or send me an email to hey[at]coderdiaz.com.
 - 😄 Pronouns: He/Him.
-- 📺 Join me on [Twitch](https://coderdiaz.com/live) for exciting streams somedays!
+- 📺 Join me on [Twitch](https://coderdiaz.com/live) for coding streams!
 
-I share my journey in tech through writing — documenting insights, experiences, and learnings from the trenches of software development. While I may not be a professional writer, I believe in the power of sharing knowledge openly. 
-
-Explore my technical notes and personal discoveries at [coderdiaz.com/notas](https://coderdiaz.com/notas)
+I share my journey in tech through writing — documenting insights, experiences, and learnings from the front lines of software development. While I may not be a professional writer, I believe in the value of openly sharing knowledge. Explore my technical notes and personal discoveries at [coderdiaz.com/blog](https://coderdiaz.com/blog/)
 
 ### Teaching
 Although I have a YouTube channel, it is not that up to date. However, I have two courses that can be very helpful to you.
