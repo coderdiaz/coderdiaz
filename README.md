@@ -4,7 +4,6 @@
   <a href="https://x.com/coderdiaz" rel="nofollow">
     <img alt="Twitter" src="https://img.shields.io/badge/follow-coderdiaz-1DA1F2?logo=twitter&style=flat-square" />
   </a>
-  &nbsp;
 </p>
 
 I'm **Javier Diaz** (coderdiaz) — a Software Engineer with experience in product design crafting high-performance digital experiences. With deep expertise in design systems and frontend/backend architecture, I bridge the gap between elegant design and robust engineering.
